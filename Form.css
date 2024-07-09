@@ -1,0 +1,46 @@
+form{
+    background-color: rgb(213, 244, 188);
+    margin: 0px 225px 0px 225px;
+    border-radius: 30px;
+    padding: 10px;
+
+}
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWwlgaDEJhet9JP4FcPZ1cQbe85O7eDeGWw&s');
+    background-size: cover;
+    background-attachment: fixed;
+}
+form:hover{
+    background-color: rgb(44, 212, 25);
+    margin: 0px 450px 0px 450px;
+          
+}
+input{
+    margin: 5px;
+    border-radius: 5px;
+    background-color: rgb(130, 212, 248);
+}
+select{
+    margin: 5px;
+    border-radius: 5px;
+    background-color:rgb(128, 243, 145);;
+}
+textarea{
+    border-radius: 5px;
+    background-color:rgb(130, 240, 143);;
+}
+input:hover{
+    background-color: rgb(226, 240, 123);
+}
+select:hover{
+    background-color: rgb(213, 244, 188);
+}
+textarea:hover{
+    background-color: rgb(213, 244, 188);
+}
+button{
+    background-color: red;
+}
+button:hover{
+    background-color: green;
+}
